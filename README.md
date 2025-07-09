@@ -1,6 +1,6 @@
 ## PROJECT OVERVIEW
-* This project analyses sales for Bright coffee shop to help the CEO make informed decisions
-* It is also to help the CEO improveshop sales by making data driven decisions
+* This project analyse sales for Bright coffee shop to help the CEO make informed decisions
+* It is also to help the CEO improve shop sales by making data driven decisions
   ## OBJECTIVES
 * Analyse historical data from Bright coffee shop
 * Aggregate data to get an insight from it
